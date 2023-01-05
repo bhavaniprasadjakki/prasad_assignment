@@ -9,8 +9,4 @@ int main()
 	else
 		printf("big indian\n");
 
-
-
-
-
 }
